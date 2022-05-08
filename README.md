@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victor16-dev
 - 👀 I’m interested in studing and creating new files
-- 🌱 I’m currently learning HTML/CSS/Java.Script
+- 🌱 I’m currently learning C / C#
 - 💞️ I’m looking to collaborate on community
 - 📫 How to reach me victor-hugo-mg@outlook.com
 
